@@ -1,7 +1,6 @@
 # ML/AI Capstone Project: Virtual vs In-Person Consultation Classifier for Type 2 Diabetes Patients
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow.svg)]()
 
 ## Author
